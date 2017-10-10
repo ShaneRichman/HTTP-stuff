@@ -1,0 +1,24 @@
+{
+  "name": "w1Extra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "https_example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaneRichman/HTTP-stuff.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShaneRichman/HTTP-stuff/issues"
+  },
+  "homepage": "https://github.com/ShaneRichman/HTTP-stuff#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.1"
+  }
+}
